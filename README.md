@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+- 🌱 I’m currently learning about frontend development in DEV.F, I'm sopported by Bécalos in its Bécalos Tech Challenge, which is a great opportunity to learn about this subject and be more compentent for my job.
 
 <!--
 **AlexRM-27/AlexRM-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
