@@ -7,7 +7,7 @@ Mechanical Engineering - Design
 I studied Mechanical Engineering in Universidad Nacional Autónoma de México, from 2017 to 2023. For my graduation I've been in a leadership diploma based in strategy, viewing subjects like generic strategy, financial analysis, strategic leadership and project management. Nowadays I sill learning new skills for being more competent in my profesional career and I'm currently learning about frontend by DEV.F using AI tools for have a better coding and also I'm certificating me by Google in UX Design, Project Management and AI Fundamentals.
 
 * 🌍  I'm based in Iztapalapa, Mexico City
-* ✉️  You can contact me at [alejandro.ruiz@ingenieria.unam.edu | alextca27@gmail.com](mailto:alejandro.ruiz@ingenieria.unam.edu | alextca27@gmail.com)
+* ✉️  You can contact me at [alejandro.ruiz@ingenieria.unam.edu | alextca27@gmail.com]
 * 🧠  I'm learning Frontend basics, UX Design, Project Management and IA Fundamentals
 * ⚡  I have 9 dogs and a pigeon (all of them are rescued). 🐦🐕
 
